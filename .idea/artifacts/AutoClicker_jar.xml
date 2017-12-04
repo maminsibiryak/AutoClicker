@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="AutoClicker:jar">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="root">
+      <element id="archive" name="AutoClicker.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/target/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="AutoClicker" />
+      </element>
+    </root>
+  </artifact>
+</component>
